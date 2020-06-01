@@ -1,0 +1,1 @@
+[{"id":"7e1eff03.bf6cf","type":"template","z":"9606a5a4.897a98","name":"","field":"payload","fieldType":"msg","format":"handlebars","syntax":"mustache","template":"I received this message: {{payload}}.","output":"str","x":340,"y":420,"wires":[["47c15209.eea77c"]]}]
